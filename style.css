@@ -53,4 +53,17 @@ section {
 hr {
 	margin-bottom: 2%;
 }
+.intro {
+	display: flex;
+	align-items: flex-end;
+}
+img {
+	margin-right: 3%;
+	min-width: 150px;
+}
 
+@media (max-width: 600px) {
+  img {
+    display: none;
+  }
+}
