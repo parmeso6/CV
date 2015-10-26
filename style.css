@@ -26,6 +26,7 @@ body {
 	float: right;
 	max-width: 1000px;
 	margin-right: 20%;
+	margin-left: 20%;
 	margin-top: 2%;
 }
 h1 {
@@ -65,5 +66,8 @@ img {
 @media (max-width: 600px) {
   img {
     display: none;
+  }
+  body{
+    margin: 2%;
   }
 }
