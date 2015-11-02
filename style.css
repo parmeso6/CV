@@ -30,23 +30,24 @@ body {
 	padding-left: 2%;
 }
 h1 {
-	font-size: 2em;
-}
-h2 {
 	font-size: 1.8em;
 }
-h3{
+h2 {
 	font-size: 1.6em;
 }
-h4{
+h3{
 	font-size: 1.4em;
 }
-h5{
+h4{
 	font-size: 1.2em;
+}
+h5{
+	font-size: 1em;
 }
 ul{
 	margin-left: 10%;
 	margin-bottom: 2%;
+	list-style-type: none;
 }
 section {
 	margin-top: 3%;
